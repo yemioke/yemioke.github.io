@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.Tech. Ladoke Akintola University of Technology, Nigeria, 2010
-* M.Tech. Ladoke Akintola University of Technology, Nigeria, 2017
-* M.Sc.   Ladoke Akintola University of Technology, The Netherlands, 2019
+* TCII    National Teachers'Institute, Nigeria. 2006.
+* B.Tech. Ladoke Akintola University of Technology, Nigeria, 2010.
+* DipTh   His Word Bible College, Nigeria, 2014.
+* M.Tech. Ladoke Akintola University of Technology, Nigeria, 2017.
+* M.Sc.   Ladoke Akintola University of Technology, The Netherlands, 2019.
 
 Work experience
 ======
