@@ -13,10 +13,8 @@ Titus Adeyemi Alonge is currently studying Sustainable Land Management at the Un
 
 News
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* [01/2024] From January 08, 2024, to January 26, 2024. I will attend the 2024 Summer School on Public Policy Analysis and Evaluation at the main campus of UENR, Sunyani, where I will explore and acquire practical skills and knowledge to analyze, evaluate, and communicate public policies, such as poverty reduction policies in Ghana, to promote inclusive growth and sustainable development https://uenr.edu.gh/uenr-hosts-summer-school-on-public-policy-and-evaluation-ssppe.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
