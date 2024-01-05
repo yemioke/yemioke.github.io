@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Titus Adeyemi Alonge currently studies Sustainable Land Management at the University of Energy and Natural Resources, Sunyani, Ghana (https://uenr.edu.gh). I advocate for food security, Land Degradation Neutrality (LDN), and Sustainable Land Management. My research aim is to study sustainable agriculture, mainly focusing on soil and water conservation using remote sensing techniques (satellites, aircraft, and UAVs) and Geographical Information Science (GIS). 
+Titus Adeyemi Alonge is currently studying Sustainable Land Management at the University of Energy and Natural Resources, Sunyani, Ghana (https://uenr.edu.gh). I advocate food security, Land Degradation Neutrality (LDN), and Sustainable Land Management. My research aims to study sustainable agriculture, focusing mainly on soil and water conservation using remote sensing techniques (satellites, aircraft, and UAVs) and Geographical Information Science (GIS).
 
 
 News
