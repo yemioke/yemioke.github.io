@@ -12,4 +12,4 @@ The study presents the mapping out of soil salinity levels in Kampe-Omi irrigati
 
 [Download paper here](http://yemioke.github.io/files/paper5.pdf)
 
-Recommended citation: Titus Adeyemi Alonge, Olumuyiwa Idowu Ojo, Modupe Adebola Adejumobi. (2018). "Electrical Conductivity Based Classification and Mapping of Salt Affected Soils in Kampe-Omi Irrigation Scheme." <i>Global Scientific Journal</i>. 6(7).
+Recommended citation: Titus Adeyemi Alonge***, Olumuyiwa Idowu Ojo, Modupe Adebola Adejumobi. (2018). "Electrical Conductivity Based Classification and Mapping of Salt Affected Soils in Kampe-Omi Irrigation Scheme." <i>Global Scientific Journal</i>. 6(7).
