@@ -19,15 +19,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2024: Research Assistant
+  * University of Energy and Natural Resources
+  * Duties included: Public Policy Analysis and Evaluation (PPAE)
+  * Supervisors: Dr. George Kwadwo Anane, Dr. Davina Osei, and Dr. Elvis Avenyo
+    
+* Fall 2023: Research Assistant
+  * University of Energy and Natural Resources
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Dr. George Kwadwo Anane
   
 Skills
 ======
