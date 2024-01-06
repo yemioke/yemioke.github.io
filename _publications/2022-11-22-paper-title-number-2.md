@@ -10,6 +10,6 @@ citation: 'Hasriyanti*, Rusdi*, Alonge Titus Adeyemi**, Michel E. D. Chaves***, 
 ---
 This study aimed to investigate and describe patorani culture, which is the local fishermen's knowledge of conserving fishery resources.
 
-[Download paper here] http://journal2.um.ac.id/index.php/jpg/article/view/29878
+[Download paper here](http://journal2.um.ac.id/index.php/jpg/article/view/29878)
 
 Recommended citation: Hasriyanti*, Rusdi*, Alonge Titus Adeyemi**, Michel E. D. Chaves***, Erman Syarif*. (2022). "Patorani local knowledge system in fisheries resources conservation education in Galesong District South Sulawesi." <i>Jurnal Pendidikan Geografi</i>. 28(1).
