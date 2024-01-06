@@ -10,6 +10,6 @@ citation: 'Rusdi Rusdi, Alonge Titus Adeyemi, Feri Padli. (2023). &quot; Local C
 ---
 this study aims to determine the local adaptation strategy of the community in dealing with flood disasters in Soppeng Regency.
 
-[Download paper here](https://ejurnal.ung.ac.id/index.php/JGEJ/article/view/18817)
+[Download paper here](https://ejurnal.ung.ac.id/index.php/JGEJ/article/view/18817/6316)
 
 Recommended citation: Rusdi Rusdi, Alonge Titus Adeyemi, Feri Padli. (2023). "Local Community Adaptation to Flood Disaster In Soppeng District." <i>Jambura Geo Education Journal</i>. 4(1).
