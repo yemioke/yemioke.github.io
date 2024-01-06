@@ -1,4 +1,3 @@
-
 ---
 title: "Electrical Conductivity Based Classification and Mapping of Salt Affected Soils in Kampe-Omi Irrigation Scheme"
 collection: publications
