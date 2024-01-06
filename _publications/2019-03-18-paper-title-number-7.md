@@ -10,6 +10,6 @@ citation: 'Oluwayomi Ife AKINYEMI, Titus Adeyemi ALONGE, Olumuyiwa Idowu OJO, .O
 ---
 The concept of climate has gained much relevance because of its dynamic and complex nature and the significant influence it has on various aspects of the environment including the increasing threat of global climate change. Hence, this paper aimed to analyze the geospatial trend mapping of some annual climate variables for southwest Nigeria.
 
-[Download paper here](https://acta.fih.upt.ro/pdf/2019-1/ACTA-2019-1-20.pdf)
+[Download paper here](https://rb.gy/1nypkz)
 
 Recommended citation: Oluwayomi Ife AKINYEMI, Titus Adeyemi ALONGE, Olumuyiwa Idowu OJO, Oyetola OGUNKUNLE. (2019). "Geo-Spatial Trend Mapping of Some Annual Climate Variable for South West Nigeria." <i>ACTA TECHNICA CORVINIENSIS – Bulletin of Engineering</i>. (Tome XII).
