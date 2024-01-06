@@ -1,7 +1,7 @@
 ---
 title: "Local Community Adaptation to Flood Disaster In Soppeng District"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: [2009-10-01-paper-title-number-1](https://github.com/yemioke/yemioke.github.io/blob/e5fe348273a1fd4d0ec056b21469ce31316b8e70/files/paper1.pdf)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-03-30
 venue: 'Journal 1'
