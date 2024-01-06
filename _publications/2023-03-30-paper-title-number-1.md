@@ -10,6 +10,6 @@ citation: 'Rusdi Rusdi, Alonge Titus Adeyemi, Feri Padli. (2023). &quot; Local C
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://yemioke.github.io/files/Article1.pdf)
+[Download paper here](http://yemioke.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
