@@ -6,10 +6,10 @@ excerpt: 'This study aims to determine the local adaptation strategy of the comm
 date: 2023-03-30
 venue: 'Jambura Geo Education Journal'
 paperurl: 'http://yemioke.github.io/files/paper1.pdf'
-citation: 'Rusdi Rusdi, Alonge Titus Adeyemi, Feri Padli. (2023). &quot; Local Community Adaptation to Flood Disaster In Soppeng District.&quot; <i>Jambura Geo Education Journal</i>. 1(1).'
+citation: 'Rusdi Rusdi, **Alonge Titus Adeyemi**, Feri Padli. (2023). &quot; Local Community Adaptation to Flood Disaster In Soppeng District.&quot; <i>Jambura Geo Education Journal</i>. 4(1).'
 ---
 this study aims to determine the local adaptation strategy of the community in dealing with flood disasters in Soppeng Regency.
 
 [Download paper here](http://yemioke.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Rusdi Rusdi, **Alonge Titus Adeyemi**, Feri Padli. (2023). "Local Community Adaptation to Flood Disaster In Soppeng District." <i>Jambura Geo Education Journal</i>. 4(1).
