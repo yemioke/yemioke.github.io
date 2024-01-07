@@ -12,4 +12,4 @@ This study focuses on the assessment of climatic variation in five locations in 
 
 [Download paper here](http://yemioke.github.io/files/paper6.pdf)
 
-Recommended citation: Kehinde Omoleye Ateniola, Titus Adeyemi Alonge, and Olumuyiwa Idowu Ojo. (2019). "Variation in minimum temperature in South-West Nigeria." <i>2019 ASABE Annual International Meeting</i>.  (Paper Number: 1901295).
+Recommended citation: Kehinde Omoleye Ateniola, **Titus Adeyemi Alonge**, and Olumuyiwa Idowu Ojo. (2019). "Variation in minimum temperature in South-West Nigeria." <i>2019 ASABE Annual International Meeting</i>.  (Paper Number: 1901295).
