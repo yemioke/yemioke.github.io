@@ -12,4 +12,4 @@ This study aimed to investigate and describe patorani culture, which is the loca
 
 [Download paper here](https://shorturl.at/fvFM3)
 
-Recommended citation: Hasriyanti*, Rusdi*, Alonge Titus Adeyemi**, Michel E. D. Chaves***, Erman Syarif*. (2022). "Patorani local knowledge system in fisheries resources conservation education in Galesong District South Sulawesi." <i>Jurnal Pendidikan Geografi</i>. 28(1).
+Recommended citation: Hasriyanti*, Rusdi*, **Alonge Titus Adeyemi**, Michel E. D. Chaves***, Erman Syarif*. (2022). "Patorani local knowledge system in fisheries resources conservation education in Galesong District South Sulawesi." <i>Jurnal Pendidikan Geografi</i>. 28(1).
