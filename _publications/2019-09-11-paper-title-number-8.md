@@ -12,4 +12,4 @@ The study was carried out to analyze the effect of effluent from abattoir at 20 
 
 [Download paper here](https://rb.gy/zmmz70)
 
-Recommended citation: Adejumobi, M. A. and 2Alonge, T. A. (2019). "Evaluation of Abattoir Effluent on Ground Water Quality." <i>LAUTECH Journal of Civil and Environmental Studies</i>. 3(1).
+Recommended citation: Adejumobi, M. A. and **Alonge, T. A**. (2019). "Evaluation of Abattoir Effluent on Ground Water Quality." <i>LAUTECH Journal of Civil and Environmental Studies</i>. 3(1).
