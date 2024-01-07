@@ -12,4 +12,4 @@ this study aims to determine the local adaptation strategy of the community in d
 
 [Download paper here](https://shorturl.at/ckrQX)
 
-Recommended citation: Rusdi Rusdi, Alonge Titus Adeyemi, Feri Padli. (2023). "Local Community Adaptation to Flood Disaster In Soppeng District." <i>Jambura Geo Education Journal</i>. 4(1).
+Recommended citation: Rusdi Rusdi, **Alonge Titus Adeyemi**, Feri Padli. (2023). "Local Community Adaptation to Flood Disaster In Soppeng District." <i>Jambura Geo Education Journal</i>. 4(1).
