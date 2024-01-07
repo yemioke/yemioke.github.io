@@ -12,4 +12,4 @@ The concept of climate has gained much relevance because of its dynamic and comp
 
 [Download paper here](https://rb.gy/1nypkz)
 
-Recommended citation: Oluwayomi Ife AKINYEMI, Titus Adeyemi ALONGE, Olumuyiwa Idowu OJO, Oyetola OGUNKUNLE. (2019). "Geo-Spatial Trend Mapping of Some Annual Climate Variable for South West Nigeria." <i>ACTA TECHNICA CORVINIENSIS – Bulletin of Engineering</i>. (Tome XII).
+Recommended citation: Oluwayomi Ife AKINYEMI, **Titus Adeyemi ALONGE**, Olumuyiwa Idowu OJO, Oyetola OGUNKUNLE. (2019). "Geo-Spatial Trend Mapping of Some Annual Climate Variable for South West Nigeria." <i>ACTA TECHNICA CORVINIENSIS – Bulletin of Engineering</i>. (Tome XII).
