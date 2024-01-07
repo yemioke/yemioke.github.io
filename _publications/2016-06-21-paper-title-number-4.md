@@ -12,4 +12,4 @@ This research was carried out to analyze the suitability of Oshin River in Oke-O
 
 [Download paper here](https://rb.gy/098zkf)
 
-Recommended citation: Adejumobi M.A, Alonge T.A, Mufutau B.A and Jatto M.F. (2016). "Assessment of Suitability of Oshin River Water for Irrigation: Case Study of Oke-Oyi Irrigation Scheme, Nigeria." <i>IOSR Journal of Environmental Science, Toxicology and Food Technology</i>. 6(10).
+Recommended citation: Adejumobi M.A, **Alonge T.A**, Mufutau B.A and Jatto M.F. (2016). "Assessment of Suitability of Oshin River Water for Irrigation: Case Study of Oke-Oyi Irrigation Scheme, Nigeria." <i>IOSR Journal of Environmental Science, Toxicology and Food Technology</i>. 6(10).
