@@ -32,10 +32,12 @@ Work experience
 Skills
 ======
 * Research Skills
-  * Strong Qualitative Analiysis
-  * Strong Qualitative Analiysis
+  * Strong Qualitative Analysis
+  * Strong Quantitative Analysis
   * Effective communication
-  * Academic writing
+  * Academic writing and creative thinking 
+  * Investigation and analysis
+  * Evaluation and Monitoring
 * Softwares
   * STATA for statistical analysis
   * Geographical Information System
