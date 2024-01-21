@@ -38,6 +38,7 @@ Skills
   * Academic writing and creative thinking 
   * Investigation and analysis
   * Evaluation and Monitoring
+  * Decision Making
 * Softwares
   * STATA for statistical analysis
   * Geographical Information System
