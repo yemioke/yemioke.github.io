@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Summer 2024: Researcher
+* January 2024: Researcher
   * University of Energy and Natural Resources
   * Duties included: Public Policy Analysis and Evaluation (PPAE)
   * Supervisors: Dr. George Kwadwo Anane, Dr. Davina Osei, and Dr. Elvis Avenyo
