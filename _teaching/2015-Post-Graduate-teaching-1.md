@@ -8,8 +8,7 @@ date: 2015-01-01
 location: "Ogbomosho, Nigeria"
 ---
 
-Achievements.
-
+Achievements
 Assisted senior Lecturers with academic duties
 ======
 
