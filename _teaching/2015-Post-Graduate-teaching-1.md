@@ -10,11 +10,13 @@ location: "Ogbomosho, Nigeria"
 
 Achievements
 
+Achievements
+======
 Assisted senior Lecturers with academic duties
-======
+Assisted in marking and grading of semester courses
+Assisted in mentoring of undergraduate project work
+Prepared students for presentations, lectures and seminars
+Carried out all assigned duties by Head of Department and other staff
 
-Heading 2
-======
 
-Heading 3
-======
+
