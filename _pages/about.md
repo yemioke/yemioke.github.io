@@ -12,7 +12,7 @@ Titus Adeyemi Alonge is currently studying Sustainable Land Management at the Un
 
 I obtained my MSc. in Water Science and Engineering with a specialization in Land and Water Development for Food Security in the year 2019 from IHE Delft Institute for Water Education, Delft ([IHE-Delft](https://www.un-ihe.org)), The Netherlands. I also hold a Bachelor and  Master of Technology (B Tech and M Tech) in Agricultural Engineering from Ladoke Akintola University of Technology (Nigeria) ([LAUTECH](https://www.lautech.edu.ng/)) in the years 2010 and 2017 respectively.
 
-I advocate food security, Land Degradation Neutrality (LDN), and Sustainable Land Management. My research aims to study sustainable agriculture, focusing mainly on Evapotranspiration, soil salinity, soil and water conservation using remote sensing techniques (satellites, aircraft, and UAVs) and Geographical Information Science (GIS).
+I research broadly into food security, Land Degradation Neutrality (LDN), and Sustainable Land Management. My research aims to study sustainable agriculture, focusing mainly on Evapotranspiration, soil salinity, soil and water conservation using remote sensing techniques (satellites, aircraft, and UAVs) and Geographical Information Science (GIS).
 
 
 News and Media
