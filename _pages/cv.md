@@ -19,15 +19,15 @@ Education
 
 Work experience
 ======
-* Summer 2024: Research Assistant
+* Summer 2024: Researcher
   * University of Energy and Natural Resources
   * Duties included: Public Policy Analysis and Evaluation (PPAE)
   * Supervisors: Dr. George Kwadwo Anane, Dr. Davina Osei, and Dr. Elvis Avenyo
     
-* Fall 2023: Research Assistant
+* November 2023: Researcher
   * University of Energy and Natural Resources
-  * Duties included: Merging pull requests
-  * Supervisor: Dr. George Kwadwo Anane
+  * Duties included: Analysis Of Mineral Resources to Identify Suitable Mine Sites Using a Geographical Information System In Western Australia.
+  * Supervisor: Dr. Moomen Abul-Wadood
   
 Skills
 ======
