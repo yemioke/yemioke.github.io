@@ -10,11 +10,10 @@ location: "Ilesa, Nigeria"
 
 Achievements
 
-Supervised 15 undergradute thesis
+Achievements
 ======
+* Assisted in Supervision 15 undergradute thesis
+* Assisted in teaching Integrated Science
+* Students Teaching Practice Supervision
+* Examination supervision
 
-Heading 2
-======
-
-Heading 3
-======
