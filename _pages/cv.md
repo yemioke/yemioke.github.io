@@ -31,11 +31,17 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Research Skills
+  * Strong Qualitative Analiysis
+  * Strong Qualitative Analiysis
+  * Effective communication
+  * Academic writing
+* Softwares
+  * STATA for statistical analysis
+  * Geographical Information System
+  * Remote Sensing
+  * Aquacrop
+  * SYSDES for canal and Drainage Modeling
 * Skill 3
 
 Publications
