@@ -1,7 +1,7 @@
 ---
 title: "Post-Graduate Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Research Development, Teaching and Learning"
 permalink: /teaching/2014-PG-teaching-1
 venue: "Ladoke Akintola University of Technology, Department of Agricultural Engineering"
 date: 2015-01-01
