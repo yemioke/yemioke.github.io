@@ -17,7 +17,7 @@ I research broadly into food security, Land Degradation Neutrality (LDN), and Su
 
 News and Media
 ------
-*A postgraduate supervisor at a Chinese university has been suspended after a preliminary investigation verified allegations of academic misconduct reported by students in his team. [For detail...](https://rb.gy/zqpwub)
+* A postgraduate supervisor at a Chinese university has been suspended after a preliminary investigation verified allegations of academic misconduct reported by students in his team. [For detail...](https://rb.gy/zqpwub)
 * In 2023, Elsevier had to withdraw over 500 papers due to the activities of *Paper Mills*.Below are findings on the efforts of these unscrupulous activities,  which will become even more sinister with the advent of Artificial Intelligence (AI). [I hope you take the time to read it...](https://rb.gy/xqv7q6)
 * A variety of factors, including erosion, compaction, nutrient imbalances, pollution, acidification, waterlogging, diminishing soil biodiversity, and escalating salinity, have been negatively impacting soil worldwide, consequently diminishing its capacity to nurture plant life and cultivate crops. [More detail at](https://www.bbc.com/future/bespoke/follow-the-food/why-soil-is-disappearing-from-farms/)
 * [01/2024] From January 08, 2024, to January 26, 2024. I will attend the 2024 Summer School on Public Policy Analysis and Evaluation at the main campus of UENR, Sunyani, where I will explore and acquire practical skills and knowledge to analyze, evaluate, and communicate public policies, such as poverty reduction policies in Ghana, to promote inclusive growth and sustainable development. [for more information](https://uenr.edu.gh/uenr-hosts-summer-school-on-public-policy-and-evaluation-ssppe/).
